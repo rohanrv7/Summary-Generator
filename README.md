@@ -1,1 +1,3 @@
 # Summary-Generator
+
+This project implements a Document Summary Generator system, designed to efficiently summarize text extracted from uploaded documents, such as PDFs and Word files. The system leverages advanced AI models, like OpenAI’s GPT-4, to produce accurate and structured summaries, making complex information easier to understand and utilize. By integrating Flask for backend processing and Streamlit for a dynamic frontend interface, the project ensures robust functionality and a seamless user experience. Users can easily upload files, trigger summarization, and retrieve concise summaries tailored to their needs. This tool is particularly useful for professionals, students, and researchers looking to quickly comprehend lengthy documents.
